@@ -1,0 +1,15 @@
+/home/dima/Urok1C#/Task8/obj/Debug/net6.0/Task8.csproj.AssemblyReference.cache
+/home/dima/Urok1C#/Task8/obj/Debug/net6.0/Task8.GeneratedMSBuildEditorConfig.editorconfig
+/home/dima/Urok1C#/Task8/obj/Debug/net6.0/Task8.AssemblyInfoInputs.cache
+/home/dima/Urok1C#/Task8/obj/Debug/net6.0/Task8.AssemblyInfo.cs
+/home/dima/Urok1C#/Task8/obj/Debug/net6.0/Task8.csproj.CoreCompileInputs.cache
+/home/dima/Urok1C#/Task8/bin/Debug/net6.0/Task8
+/home/dima/Urok1C#/Task8/bin/Debug/net6.0/Task8.deps.json
+/home/dima/Urok1C#/Task8/bin/Debug/net6.0/Task8.runtimeconfig.json
+/home/dima/Urok1C#/Task8/bin/Debug/net6.0/Task8.dll
+/home/dima/Urok1C#/Task8/bin/Debug/net6.0/Task8.pdb
+/home/dima/Urok1C#/Task8/obj/Debug/net6.0/Task8.dll
+/home/dima/Urok1C#/Task8/obj/Debug/net6.0/refint/Task8.dll
+/home/dima/Urok1C#/Task8/obj/Debug/net6.0/Task8.pdb
+/home/dima/Urok1C#/Task8/obj/Debug/net6.0/Task8.genruntimeconfig.cache
+/home/dima/Urok1C#/Task8/obj/Debug/net6.0/ref/Task8.dll
